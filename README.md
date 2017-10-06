@@ -1,0 +1,2 @@
+# Image-enhancement-techniques-for-subsea-images
+Nowadays most subsea operations are done by Remotely Operated Vehicles. This opens many possibilities of improvement because of extremely difficult environment conditions. Vision is one of key issues for operator to make decisions while performing precise and careful tasks. In our project we conduct comparison and description of different image enhancement techniques applied to indistinct subsea images. Comparison of results is done by using performance metrics, PSNR,MSE and SSIM.
